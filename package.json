@@ -1,0 +1,25 @@
+{
+  "name": "service-worker-lab",
+  "version": "1.0.0",
+  "description": "A service worker set up and venerability exploration lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheFrohlich/service-worker-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheFrohlich/service-worker-lab/issues"
+  },
+  "homepage": "https://github.com/TheFrohlich/service-worker-lab#readme",
+  "devDependencies": {
+    "express": "^4.15.3"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
